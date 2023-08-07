@@ -9,6 +9,11 @@
 3. Select Menu (top left corner of OverLeaf)
   - TeX Live version is 2021
   - Now your LaTeX file should compile :)
+## Basics
+You can type special commands by using "\".
+You can use the built-in autocomplete by pressing tab
+To bring up a list of autocomplete options, press ctrl + space
+
 
 ## Exercises
 Here are a few exercises:
