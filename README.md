@@ -14,5 +14,5 @@ Press code and select download zip
   - How to create a bibliograph
 
  ### Concerning Papers
- (Concerning Paper 1)[https://arxiv.org/pdf/2303.17626.pdf]
- (Concerning Paper 2)[https://arxiv.org/pdf/2304.00220.pdf]
+ [Concerning Paper 1](https://arxiv.org/pdf/2303.17626.pdf)  
+ [Concerning Paper 2](https://arxiv.org/pdf/2304.00220.pdf)  
