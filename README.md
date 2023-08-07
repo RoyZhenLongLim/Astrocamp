@@ -1,9 +1,9 @@
 # Astrocamp
 Welcome to Astrocamp!
 
-This repositary has some useful material for your research project
+This repo has some useful material for your research project
 ## Download 
-Select Code (top right corner in green) and select download ZIP
+Select Code (top right corner in green) and select Download ZIP
 
 ## Content
 
@@ -14,7 +14,7 @@ Select Code (top right corner in green) and select download ZIP
 - LaTeX
   - LaTeX Template with setup instructions for OverLeaf
   - Guide to LaTeX
-  - How to create a bibliograph
+  - How to create a bibliography
 
  ### Concerning Papers
  [Concerning Paper 1](https://arxiv.org/pdf/2303.17626.pdf)  
