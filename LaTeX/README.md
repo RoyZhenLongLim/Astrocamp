@@ -1,6 +1,6 @@
 # LaTeX
 ## Getting Started
-1. Create a new account with (OverLeaf)[https://www.overleaf.com]
+1. Create a new account with [OverLeaf](https://www.overleaf.com)
   - OverLeaf is an online LaTeX Editor
   - Make sure to sign up using your UNSW email to get pro features
   - Helps simplify writing LaTeX files by automating compilation and providing autocomplete amongst another host of benefits
