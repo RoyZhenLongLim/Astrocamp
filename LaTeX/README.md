@@ -30,4 +30,6 @@ Creating custom commands
 ## Appendix
 If you want more information, feel free to google or consult a [guide](https://www.rpi.edu/dept/arc/docs/latex/latex-intro.pdf)
 
+The UNSW Physics LaTeX Report Template is provided for all non-research related reports
+
 Here is a [list of useful mathematical symbols](http://tug.ctan.org/info/undergradmath/undergradmath.pdf)
