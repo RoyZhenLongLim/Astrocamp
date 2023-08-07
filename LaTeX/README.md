@@ -12,7 +12,7 @@
 
 ## Exercises
 Here are a few exercises:
-1. Find a paper on ADS and add to bibliography
+1. Find a paper on ADS and add it to the bibliography
   - Cite it
 
 ## Miscellaneous
@@ -22,3 +22,7 @@ Creating custom commands
 \newcommand{\newCommandName}[numberOfVariables]{newCommand}
 \newCommand{\ddx}[1]{\frac{d #1}{dx}}
 ```
+## Appendix
+If you want more information, feel free to google or consult a [guide](https://www.rpi.edu/dept/arc/docs/latex/latex-intro.pdf)
+
+Here is a (list of useful mathematical symbols)[http://tug.ctan.org/info/undergradmath/undergradmath.pdf]
