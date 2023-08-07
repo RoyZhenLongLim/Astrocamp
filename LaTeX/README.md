@@ -10,9 +10,9 @@
   - TeX Live version is 2021
   - Now your LaTeX file should compile :)
 ## Basics
-You can type special commands by using "\".
-You can use the built-in autocomplete by pressing tab
-To bring up a list of autocomplete options, press ctrl + space
+You can type special commands by using \\.  
+You can use the built-in autocomplete by pressing the tab  
+To bring up a list of autocomplete options, press ctrl + space  
 
 
 ## Exercises
@@ -30,4 +30,4 @@ Creating custom commands
 ## Appendix
 If you want more information, feel free to google or consult a [guide](https://www.rpi.edu/dept/arc/docs/latex/latex-intro.pdf)
 
-Here is a (list of useful mathematical symbols)[http://tug.ctan.org/info/undergradmath/undergradmath.pdf]
+Here is a [list of useful mathematical symbols](http://tug.ctan.org/info/undergradmath/undergradmath.pdf)
