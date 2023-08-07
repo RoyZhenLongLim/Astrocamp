@@ -3,11 +3,14 @@ Welcome to Astrocamp!
 
 This repositary has some useful material for your research project
 ## Download 
-Press code and select download zip
+Select Code (top right corner in green) and select download ZIP
 
 ## Content
 
 - Python
+  - Introduction to coding with Juypternote Books
+  - Basic Data Wrangling with Pandas
+  - Data Visualisation with Matploblib
 - LaTeX
   - LaTeX Template with setup instructions for OverLeaf
   - Guide to LaTeX
