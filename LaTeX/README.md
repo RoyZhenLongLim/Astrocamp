@@ -9,7 +9,7 @@
 3. Select Menu (top left corner of OverLeaf)
   - TeX Live version is 2021
   - Now your LaTeX file should compile :)
-
+<!-- test --> 
 ### Project Explanation
 - main.tex
   - Write your report here
@@ -18,6 +18,7 @@
 - mrnas.bst and natbib.sty
   - Configures your bibliography
   - Don't touch :)
+ 
 ## Basics
 You can type special commands by using \\.  
 You can use the built-in autocomplete by pressing the tab  
@@ -33,9 +34,18 @@ To access equations in blocks, use:
 \end{equation}
 ```
 
-
 ## Exercises
 Task recreated the LaTeX Report sample.pdf
+
+<details>
+  <Summary> Tip 1 </Summary>
+  Add tips here
+</details>
+<details>
+  <Summary> Tip 2 </Summary>
+  Add tips here
+</details>
+
 
 ## Miscellaneous
 Creating custom commands
