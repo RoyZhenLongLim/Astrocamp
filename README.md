@@ -8,7 +8,7 @@ Select Code (top right corner in green) and select Download ZIP
 ## Content
 
 - Python
-  - Introduction to coding with Juypternote Books
+  - Introduction to coding with Juypter Notebooks
   - Basic Data Wrangling with Pandas
   - Data Visualisation with Matploblib
 - LaTeX
