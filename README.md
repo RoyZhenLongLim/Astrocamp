@@ -16,6 +16,8 @@ Select Code (top right corner in green) and select Download ZIP
   - Guide to LaTeX
   - How to create a bibliography
 
- ### Concerning Papers
+ ### Concerning Papers 
+> How fleeting are all human passions compared with the massive continuity of ducks.
+
  [Concerning Paper 1](https://arxiv.org/pdf/2303.17626.pdf)  
  [Concerning Paper 2](https://arxiv.org/pdf/2304.00220.pdf)  
