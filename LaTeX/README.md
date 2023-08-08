@@ -23,7 +23,7 @@ To access equations in blocks, use:
 ```LaTeX
 \begin{equation}
   a^2 + b^2 = c^2
-\end{equationn}
+\end{equation}
 ```
 
 
