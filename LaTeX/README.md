@@ -32,9 +32,7 @@ To access equations in blocks, use:
 
 
 ## Exercises
-Here are a few exercises:
-1. Find a paper on ADS and add it to the bibliography
-  - Cite it
+Task recreated the LaTeX Report sample.pdf
 
 ## Miscellaneous
 Creating custom commands
