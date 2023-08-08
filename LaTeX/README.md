@@ -10,7 +10,11 @@
   - TeX Live version is 2021
   - Now your LaTeX file should compile :)
 
-
+### Project Explanation
+- main.tex
+  - Write your report here
+- research.bib
+  - Put any sources you want to cite here
 ## Basics
 You can type special commands by using \\.  
 You can use the built-in autocomplete by pressing the tab  
