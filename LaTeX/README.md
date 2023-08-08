@@ -18,6 +18,14 @@ To bring up a list of autocomplete options, press ctrl + space
 
 ## Mathematical Typesetting
 
+To access inline equations, write `$$ a^2 + b^2 = c^2 $$`  (this should output $a^2 + b^2 = c^2$)  
+To access equations in blocks, use:
+```LaTeX
+\begin{equation}
+  a^2 + b^2 = c^2
+\end{equationn}
+```
+
 
 ## Exercises
 Here are a few exercises:
