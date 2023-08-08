@@ -15,6 +15,9 @@
   - Write your report here
 - research.bib
   - Put any sources you want to cite here
+- mrnas.bst and natbib.sty
+  - Configures your bibliography
+  - Don't touch :)
 ## Basics
 You can type special commands by using \\.  
 You can use the built-in autocomplete by pressing the tab  
