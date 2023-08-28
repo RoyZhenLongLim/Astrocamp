@@ -1,0 +1,59 @@
+%--------------------
+% Packages
+% -------------------
+\documentclass[fleqn,usenatbib]{mnras}
+\usepackage[utf8x]{inputenc}
+\usepackage[T1]{fontenc}
+%\usepackage{gentium}
+\usepackage{mathptmx} % Use Times Font
+\usepackage{xcolor} % allow coloured text
+
+\usepackage{graphicx}	% Including figure files
+\usepackage{amsmath}	% Advanced maths commands
+\usepackage{amssymb}	% Extra maths symbols
+
+%\usepackage[pdftex,linkcolor=black,pdfborder={0 0 0}]{hyperref} % Format links for pdf
+%\usepackage{calc} % To reset the counter in the document after title page
+\usepackage{enumitem} % Includes lists
+
+%\frenchspacing % No double spacing between sentences
+%\linespread{1.2} % Set linespace
+%\usepackage[a4paper, lmargin=0.1666\paperwidth, rmargin=0.1666\paperwidth, tmargin=0.1111\paperheight, bmargin=0.1111\paperheight]{geometry} %margins
+%\usepackage{parskip}
+
+\usepackage[all]{nowidow} % Tries to remove widows
+\usepackage[protrusion=true,expansion=true]{microtype} % Improves typography, load after fontpackage is selected
+
+%-----------------------
+% Define your custom commands here
+%-----------------------
+
+
+
+\title{Title}
+\author{Your Name + zId}
+
+\begin{document} 
+\label{firstpage}
+\pagerange{\pageref{firstpage}--\pageref{lastpage}}
+\maketitle
+
+\begin{abstract}
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas vestibulum nec libero ut volutpat. Curabitur placerat tristique metus, ac volutpat sapien viverra in. Suspendisse vestibulum elementum aliquet. Donec tempor non sem et facilisis. Pellentesque vel pharetra magna. Suspendisse a elementum enim. Quisque egestas dui nec arcu volutpat, sit amet posuere orci vestibulum. Quisque mollis eros non velit porta sodales. 
+\end{abstract}
+
+\section{Section}
+
+Quisque arcu neque, molestie vitae ex vitae, malesuada scelerisque turpis. Duis mi libero, eleifend eget velit id, dictum blandit nunc. Mauris sed elit non nisl euismod sodales vel vitae sapien. Donec malesuada varius mollis. In et sagittis dolor. Maecenas fringilla augue eros, eu interdum elit fermentum id. Maecenas maximus mauris eu turpis suscipit scelerisque. Nullam in quam interdum, aliquam metus sit amet, lacinia diam. 
+\subsection{Subsection}
+
+Pellentesque et viverra turpis. Ut euismod sem eu bibendum porttitor. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque et est nec ex varius imperdiet. Donec at scelerisque ex. Donec quis viverra mi. Mauris et vehicula tellus, non scelerisque est. Nam gravida sed arcu quis luctus. Nam iaculis est odio, quis pulvinar neque mattis a. Ut nec enim eget odio ultricies pharetra. 
+\subsubsection{Subsubsection}
+
+In vulputate justo non felis gravida, eu vehicula odio consectetur. Integer commodo viverra risus, blandit cursus mi euismod id. Donec rutrum venenatis commodo. Nullam massa justo, vestibulum eu dolor sed, dapibus rutrum est. Phasellus egestas odio ante, ac pretium ante ultricies sed. Proin eu nisl lorem. Pellentesque aliquam eget metus a convallis. Suspendisse ac bibendum odio, a feugiat lacus. Nam eu semper purus. Nullam quis orci et sem vestibulum suscipit a vel nisi. 
+
+\label{lastpage}
+\bibliographystyle{mnras}
+\bibliography{research} 
+
+\end{document}
