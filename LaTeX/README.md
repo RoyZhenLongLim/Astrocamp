@@ -9,7 +9,8 @@
 3. Select Menu (top left corner of OverLeaf)
   - TeX Live version is 2021
   - Now your LaTeX file should compile :)
-<!-- test --> 
+4. Follow along the slides
+
 ### Project Explanation
 - main.tex
   - Write your report here
@@ -18,8 +19,9 @@
 - mrnas.bst and natbib.sty
   - Configures your bibliography
   - Don't touch :)
-```
+
 ## Appendix
+
 If you want more information, feel free to google or consult a [guide](https://www.rpi.edu/dept/arc/docs/latex/latex-intro.pdf)
 
 The UNSW Physics LaTeX Report Template is provided for all non-research related reports
