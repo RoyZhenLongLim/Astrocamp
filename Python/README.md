@@ -5,9 +5,18 @@
 2. Download and open the sample Juyper Notebook
 
 ## Appendix
-Personal IDE of Choice: [DataSpell](https://www.jetbrains.com/dataspell/)
-- If you register using UNSW email, you get it for free
-- Has a ton of features that may be more useful to you
+If you have done programming with Python before/want to learn more on your own here are some recommendations.
 
+### Configure your own IDE
+- Personal IDE of Choice: [DataSpell](https://www.jetbrains.com/dataspell/)
+  - If you register using UNSW email, you get it for free
+  - Has a ton of features that may be more useful to you
+ 
+### Learn Git
 [Git](https://github.com/git-guides) is the industry standard for coding. 
 Learn in your spare time
+
+### Learn VIM Keybindings
+Makes typing LaTeX much faster
+[Vim-Adventures](https://vim-adventures.com/)
+[VimGenius](http://www.vimgenius.com/)
