@@ -2,7 +2,7 @@
 ## Getting Started
 1. Install [Python](https://www.python.org/downloads/) and [Juypter Notebooks](https://jupyter.org/install)
   - P.S. Log out and logging back in generally does the trick for anything you might need to restart your computer for
-2. Download and open the sample Juyper Notebook
+2. Download and open the sample Juyper Notebook `demo.ipynb`
 
 ## Appendix
 If you have done programming with Python before/want to learn more on your own here are some recommendations.
