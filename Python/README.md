@@ -11,6 +11,7 @@ If you have done programming with Python before/want to learn more on your own h
 - Personal IDE of Choice: [DataSpell](https://www.jetbrains.com/dataspell/)
   - If you register using UNSW email, you get it for free
   - Has a ton of features that may be more useful to you
+ [Datalore](https://www.jetbrains.com/datalore/) is useful if you need more computing power
  
 ### Learn Git
 [Git](https://github.com/git-guides) is the industry standard for coding. 
@@ -19,6 +20,7 @@ Learn in your spare time
 ### Python Packages
 - [Seaborn](https://seaborn.pydata.org/) (very pretty data visualisation)
 - [Scikit Learn](https://scikit-learn.org/) (Machine Learning)
+
 ### Learn VIM Keybindings
 Makes typing LaTeX much faster
 [Vim-Adventures](https://vim-adventures.com/)  
