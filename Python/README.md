@@ -23,6 +23,7 @@ Learn in your spare time
 ### Python Packages
 - [Seaborn](https://seaborn.pydata.org/) (very pretty data visualisation)
 - [Scikit Learn](https://scikit-learn.org/) (Machine Learning)
+- [Scipy](https://scipy.org/) (general scientific computing)
 
 ### Learn VIM Keybindings
 Makes typing LaTeX much faster
