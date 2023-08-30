@@ -2,7 +2,10 @@
 ## Getting Started
 1. Install [Python](https://www.python.org/downloads/) and [Juypter Notebooks](https://jupyter.org/install)
   - P.S. Log out and logging back in generally does the trick for anything you might need to restart your computer for
-2. Download and open the sample Juyper Notebook `demo.ipynb`
+2. Download and open the sample Juyper Notebook `intro.ipynb`
+Optional:
+- Depending on your project, you will use different library
+- See `astropy.ipynb` or `lightkurve.ipynb` for more specialised introduction
 
 ## Appendix
 If you have done programming with Python before/want to learn more on your own here are some recommendations.
