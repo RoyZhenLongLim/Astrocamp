@@ -2,6 +2,13 @@
 ## Getting Started
 1. Install [Python](https://www.python.org/downloads/) and [Juypter Notebooks](https://jupyter.org/install)
   - P.S. Log out and logging back in generally does the trick for anything you might need to restart your computer for
+  - FYI: If you need to restart your computer, most of the time logging out and logging back in does the trick
+  - Here are some python libraries to install:
+    - pandas
+    - numpy
+    - astropy
+    - matplotlib
+    - gala
 2. Download and open the sample Juyper Notebook `intro.ipynb`
 Optional:
 - Depending on your project, you will use different library
