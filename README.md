@@ -22,4 +22,4 @@ Select Code (top right corner in green) and select Download ZIP
  [Concerning Paper 1](https://arxiv.org/pdf/2303.17626.pdf)  
  [Concerning Paper 2](https://arxiv.org/pdf/2304.00220.pdf)  
 
-![](bruh.jpy)
+![](https://github.com/RoyZhenLongLim/Astrocamp/assets/68681969/00f9e76a-7aac-4d6d-8e0f-8024297c33a9)
