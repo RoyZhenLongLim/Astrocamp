@@ -6,13 +6,16 @@
   - Here are some python libraries to install:
     - pandas
     - numpy
-    - astropy
     - matplotlib
+    - astropy
     - gala
 2. Download and open the sample Juyper Notebook `intro.ipynb`
 Optional:
 - Depending on your project, you will use different library
 - See `astropy.ipynb` or `lightkurve.ipynb` for more specialised introduction
+
+## Cheatsheets
+- [Matploblib cheatsheet for advanced features](https://matplotlib.org/cheatsheets/)
 
 ## Appendix
 If you have done programming with Python before/want to learn more on your own here are some recommendations.
