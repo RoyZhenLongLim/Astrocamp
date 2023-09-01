@@ -11,6 +11,7 @@ Select Code (top right corner in green) and select Download ZIP
   - Introduction to coding with Juypter Notebooks
   - Basic Data Wrangling with Pandas
   - Data Visualisation with Matploblib
+  - More specialisated libraries with Astropy, Gala and Lightkurve
 - LaTeX
   - LaTeX Template with setup instructions for OverLeaf
   - Guide to LaTeX
