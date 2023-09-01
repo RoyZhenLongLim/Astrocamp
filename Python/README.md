@@ -9,10 +9,16 @@
     - matplotlib
     - astropy
     - gala
+  - Alternatively, you can learn using with Juypter Notebooks online using [Colaboratory](https://colab.research.google.com/)
 2. Download and open the sample Juyper Notebook `intro.ipynb`
-Optional:
+- `intro.ipynb` will give you are run down on:
+  - Running Juypter Notebooks
+  - Using Markdown to annotate your code
+  - Python
+  - Pandas (general purpose data science package) and Matploblib (general purpose plotting)
 - Depending on your project, you will use different library
-- See `astropy.ipynb` or `lightkurve.ipynb` for more specialised introduction
+- For students with Sarah Martell, see `astropy.ipynb` for an introduction in astropy and Gala
+- For students with Ben Montet, see `lightkurve.ipynb` for an introduction in lightkurve.
 
 ## Cheatsheets
 - [Matploblib cheatsheet for advanced features](https://matplotlib.org/cheatsheets/)
@@ -36,6 +42,6 @@ Learn in your spare time
 - [Scipy](https://scipy.org/) (general scientific computing)
 
 ### Learn VIM Keybindings
-Makes typing LaTeX much faster
+Makes typing LaTeX much faster  
 [Vim-Adventures](https://vim-adventures.com/)  
 [VimGenius](http://www.vimgenius.com/)
